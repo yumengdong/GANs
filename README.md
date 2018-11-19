@@ -6,3 +6,9 @@ Generative Adversarial Networks Projects
   - Use Adam optimizer to maximize Discriminator and Generator cost function
   - Visualize the costs of generator and discriminator
   - Run the model on GPU
+
+- <A href='http://nbviewer.jupyter.org/github/yumengdong/GANs/blob/master/Week2/Bayes%20Classifier.ipynb'>Week 2 - Bayes Classifier</A><BR>
+  - Bayes Classifier
+  - Bayes Classifier with Gaussian Mixture Models
+  - Neural Network and Autoencoder
+
