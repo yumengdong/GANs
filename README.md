@@ -11,5 +11,6 @@ Generative Adversarial Networks Projects
   - Create Bayes Classifier to learn MNIST data
   - Generate digit images by sampling from multivariate Gaussian distribution 
   - Use Gaussian Mixture Models (10 clusters) to generate digit image samples
+  - Build and train 1 hidden layer neural network autoencoder to reproduce the input
 
 
