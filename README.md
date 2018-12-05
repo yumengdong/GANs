@@ -8,7 +8,8 @@ Generative Adversarial Networks Projects
   - Run the model on GPU
 
 - <A href='http://nbviewer.jupyter.org/github/yumengdong/GANs/blob/master/Week2/Bayes%20Classifier.ipynb'>Week 2 - Bayes Classifier</A><BR>
-  - Bayes Classifier
-  - Bayes Classifier with Gaussian Mixture Models
-  - Neural Network and Autoencoder
+  - Create Bayes Classifier to learn MNIST data
+  - Generate digit images by sampling from multivariate Gaussian distribution 
+  - Use Gaussian Mixture Models (10 clusters) to generate digit image samples
+
 
