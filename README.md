@@ -13,4 +13,4 @@ Generative Adversarial Networks Projects
   - Use Gaussian Mixture Models (10 clusters) to generate digit image samples
   - Build and train 1 hidden layer neural network autoencoder to reproduce the input
 
-
+- <A href='http://nbviewer.jupyter.org/github/yumengdong/GANs/blob/master/Week2/Bayes%20Classifier.ipynb'>Week 3 - VEM</A><BR>
